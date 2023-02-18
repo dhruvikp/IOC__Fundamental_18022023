@@ -1,0 +1,21 @@
+package com.simplilearn.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class GreetController {
+
+	//STEP 1: Handle Request
+	
+	@GetMapping("/greet")
+	public void greet() {
+		// STEP 2: DO business logic
+		
+		
+		// STEP 3: Populate Model
+		
+		
+		// STEP 4: Invoke view
+	}
+}

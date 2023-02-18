@@ -1,0 +1,14 @@
+package com.simplilearn.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class GreetController {
+
+	//STEP 1: Handle Request
+	
+	
+	public void greet() {
+		
+	}
+}

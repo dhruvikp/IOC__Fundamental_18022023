@@ -1,0 +1,43 @@
+https://simplilearn-net.zoom.us/j/97311135700?pwd=TnhEZzdTNUFqSDh2aWY5M3lKWDg0UT09
+
+Meeting ID: 973 1113 5700
+Passcode: 8oa84hhs
+
+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
+git remote add origin https://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@github.com/dhruvikp/IOC__Fundamental_18022023.git
+================================================================================================================
+Dependency Injection:
+
+
+Loosly coupled system/ Tightly coupled system?
+
+
+class Car {
+	Engine e ;
+	
+	public void setEnigne(Engine engine) {
+		this.e = engine;
+	}
+
+}
+
+class Engine {
+}
+
+
+Engine e = new Engine() 
+
+Car c = new Car();
+c.setEnigne(e);
+
+
+
+
+
+
+
+
+
+
+
+================================================================================================================
